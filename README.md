@@ -1,3 +1,3 @@
 # datasciencecoursera
-# Repo created for Coursera's "The Data Scientist's Toolbox" class
-# 2015.08.07
+Repo created for Coursera's <i>The Data Scientist's Toolbox</i> class <p>
+2015.08.07
